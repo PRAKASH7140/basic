@@ -1,2 +1,3 @@
 hello git
 add a new feat
+new feat added
